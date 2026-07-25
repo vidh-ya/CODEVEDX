@@ -18,24 +18,7 @@ This project provides a controlled environment for practicing penetration testin
 - Master the fundamentals of web application security testing.
 - Develop hands-on experience in identifying, documenting, and mitigating critical vulnerabilities in a sandbox environment.
 
- 📌 Description
-This project simulates penetration testing on sample web applications.  
-It includes test cases for **SQL Injection, XSS, and CSRF** attacks.
-
-🚀 Features
-- SQL Injection test cases (`sql_injection_test.py`)  
-- XSS attack simulation (`xss_test.py`)  
-- CSRF vulnerability testing (`csrf_test.py`)  
-- Modular test scripts with `main.py`  
-
-🛠️ Technologies
-- Python  
-- Requests library  
+ 
 
 
-
-🔐 Learning Outcome
-Apply penetration testing techniques
-
-Gain hands-on experience in cybersecurity testing
 

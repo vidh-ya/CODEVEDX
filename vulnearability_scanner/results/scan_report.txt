@@ -1,0 +1,21 @@
+VULNERABILITY SCAN REPORT
+========================================
+Target:  scanme.nmap.org
+
+Port: 22
+Service: ssh
+State: open
+------------------------------
+Port: 80
+Service: http
+State: open
+------------------------------
+Port: 9929
+Service: nping-echo
+State: open
+------------------------------
+Port: 31337
+Service: tcpwrapped
+State: open
+------------------------------
+Scan Completed Successfully.
